@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf8"?>
+<items>
+        <item>
+                <race>
+                        <value>Faery</value>
+                </race>
+                <ruler>
+                        <value>Knight Boby the Sorcerer</value>
+                </ruler>
+                <land>
+                        <value>400</value>
+                </land>
+                <peasants>
+                        <value>3,562</value>
+                </peasants>
+                <building_eff>
+                        <value>100%</value>
+                </building_eff>
+                <money>
+                        <value>463,508</value>
+                </money>
+                <food>
+                        <value>85,872</value>
+                </food>
+                <runes>
+                        <value>240</value>
+                </runes>
+                <trade_balance>
+                        <value>-99,750</value>
+                </trade_balance>
+                <networth>
+                        <value>32,957 gold coins</value>
+                </networth>
+                <soldiers>
+                        <value>4,036</value>
+                </soldiers>
+                <off_spec>
+                        <value>0</value>
+                </off_spec>
+                <def_spec>
+                        <value>0</value>
+                </def_spec>
+                <elit>
+                        <value>0</value>
+                </elit>
+                <thieves>
+                        <value>
+                
+                    0 (100%)
+                
+            </value>
+                </thieves>
+                <wizards>
+                        <value>
+                
+                    1,112 (100%)
+                
+            </value>
+                </wizards>
+                <war_horses>
+                        <value>0</value>
+                </war_horses>
+                <prisoners>
+                        <value>0</value>
+                </prisoners>
+                <off_points>
+                        <value>8,233</value>
+                </off_points>
+                <def_points>
+                        <value>8,072</value>
+                </def_points>
+        </item>
+</items><?xml version="1.0" encoding="utf8"?>
+<items>
+        <item>
+                <race>
+                        <value>Faery</value>
+                </race>
+                <ruler>
+                        <value>Knight Boby the Sorcerer</value>
+                </ruler>
+                <land>
+                        <value>400</value>
+                </land>
+                <peasants>
+                        <value>3,562</value>
+                </peasants>
+                <building_eff>
+                        <value>100%</value>
+                </building_eff>
+                <money>
+                        <value>463,508</value>
+                </money>
+                <food>
+                        <value>85,872</value>
+                </food>
+                <runes>
+                        <value>240</value>
+                </runes>
+                <trade_balance>
+                        <value>-99,750</value>
+                </trade_balance>
+                <networth>
+                        <value>32,957 gold coins</value>
+                </networth>
+                <soldiers>
+                        <value>4,036</value>
+                </soldiers>
+                <off_spec>
+                        <value>0</value>
+                </off_spec>
+                <def_spec>
+                        <value>0</value>
+                </def_spec>
+                <elit>
+                        <value>0</value>
+                </elit>
+                <thieves>
+                        <value>
+                
+                    0 (100%)
+                
+            </value>
+                </thieves>
+                <wizards>
+                        <value>
+                
+                    1,112 (100%)
+                
+            </value>
+                </wizards>
+                <war_horses>
+                        <value>0</value>
+                </war_horses>
+                <prisoners>
+                        <value>0</value>
+                </prisoners>
+                <off_points>
+                        <value>8,233</value>
+                </off_points>
+                <def_points>
+                        <value>8,072</value>
+                </def_points>
+        </item>
+</items>
