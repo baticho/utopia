@@ -15,6 +15,7 @@ class LoginPipeline:
 
         bot_token = '155961489:AAHmt5R8zyoQnnoD-kKjY5ZB_9SyfPl8NGc'
         bot_chatID = '67310463' #Bat Icho
+        bot_chatID = '167207468' #Nikola
         #bot_chatID = '164076275' #Vankata
         #bot_chatID = '175377493' #Bratcgeda
         #bot_chatID = '-1001356679470' #BotId
